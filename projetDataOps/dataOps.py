@@ -6,14 +6,6 @@ from functionsTitanic import *
 
 # Ce fichier contient la manipulation de données de titanic en utilisant pandas
 
-# Authors :  {
-# Marouane AIT OUALI
-# Mohamed Amine Dhaoui
-# Achraf Chergui
-# Djarlane Innocent Kouassivi EGBLOMASSE
-# Jeremy Lambert JAQUES GUSTAVE
-# Junior Loic Cedric NGOKOBI
-#   }
 
 # Url des données 
 
