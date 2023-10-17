@@ -9,15 +9,6 @@ import json
 # Les fonctions pour sa création, nettoyage de données ainsi que l'enregistrement
 # sous un format précis
 
-# Authors :  {
-# Marouane AIT OUALI
-# Mohamed Amine Dhaoui
-# Achraf Chergui
-# Djarlane Innocent Kouassivi EGBLOMASSE
-# Jeremy Lambert JAQUES GUSTAVE
-# Junior Loic Cedric NGOKOBI
-#   }
-
 
 
 
